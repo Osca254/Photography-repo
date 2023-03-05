@@ -42,4 +42,4 @@ This is the version 1.0 of the arts web application but i hope to improve the ap
 - Css modules to prevent clashing of class names across components
 # Installation and Running
 
-git clone or pull the project in your terminal, open the project folder on your local laptop in a code editor and run "npm start" in your editors terminal.
+git clone or pull the project in your terminal, open the project folder on your local laptop in a code editor and run  'npm install' to install all dependencies required for the app to run, "npm start" in your editors terminal.
